@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://c1tr00z.github.io/blog/2015/07/13/witcher-3-sucks/</loc>
+    <lastmod>2015-07-13T00:13:53+03:00</lastmod>
+  </url>
+  <url>
     <loc>http://c1tr00z.github.io/blog/</loc>
   </url>
   <url>
     <loc>http://c1tr00z.github.io/blog/archives/</loc>
   </url>
   <url>
+    <loc>http://c1tr00z.github.io/</loc>
+  </url>
+  <url>
     <loc>http://c1tr00z.github.io/archives/</loc>
   </url>
   <url>
-    <loc>http://c1tr00z.github.io/</loc>
+    <loc>http://c1tr00z.github.io/blog/categories/games/</loc>
+  </url>
+  <url>
+    <loc>http://c1tr00z.github.io/blog/categories/gamedesign/</loc>
+  </url>
+  <url>
+    <loc>http://c1tr00z.github.io/blog/categories/gamedev/</loc>
   </url>
 </urlset>
