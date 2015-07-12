@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://c1tr00z.github.io
+title: c1tr00z's blog
+subtitle: Почти всё, что связано с играми
+author: Игорь 'c1tr00z' Никитин
 simple_search: https://www.google.com/search
 description:
 
@@ -70,7 +70,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: "c1tr00z"
 twitter_tweet_button: true
 
 # Google +1
@@ -91,7 +91,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: "ctrz-me"
 disqus_show_comment_count: false
 
 # Google Analytics
