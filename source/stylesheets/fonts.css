@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Arvo';
+    src: url('../fonts/Arvo-Regular_201.ttf');
+}
+
+@font-face {
+    font-family: 'Cuprum';
+    src: url('../fonts/Cuprum-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
