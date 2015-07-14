@@ -2,17 +2,39 @@
 // To give it a try, uncomment some of the lines below rebuild your blog, and see how it works.
 // If you need a handy color picker try http://hslpicker.com
 
-//$header-bg: #263347;
-//$subtitle-color: lighten($header-bg, 58);
-//$nav-bg: desaturate(lighten(#8fc17a, 18), 5);
-//$nav-bg-front: image-url('noise.png');
-//$nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11));
-//$sidebar-bg: desaturate(#eceff5, 8);
-//$sidebar-link-color: saturate(#526f9a, 10);
-//$sidebar-link-color-hover: darken(#7ab662, 9);
-//$footer-bg: #ccc !default;
-//$footer-bg-front: image-url('noise.png');
-//$footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11));
+$page-bg: #fff;
+$body-bg: #fff;
+$header-bg: #fff;
+$main-bg: #fff;
+$title-color: #222;
+$subtitle-color: #555;
+$nav-bg: #fff;
+$nav-color: #222;
+$nav-color-hover: #222;
+
+$sidebar-bg: #fff !default;
+$sidebar-border: #fff;
+$sidebar-border-hover: #fff;
+
+$nav-border: 0px;
+$nav-border-top: 0px;
+$nav-border-bottom: #222;
+$nav-border-right: 0px;
+$nav-border-left: #222;
+
+
+$nav-placeholder: desaturate(darken($nav-bg, 10), 20) !default;
+
+$footer-color: #555;
+$footer-bg: #fff;
+$footer-bg-front: #fff;
+$footer-bg-back: #fff;
+$footer-color: #555;
+$footer-color-hover: #555;
+$footer-border-top: #222;
+$footer-border-bottom: #222;
+$footer-link-color: #888;
+$footer-link-color-hover: #888;
 
 
 /* To use the light Solarized highlighting theme uncomment the following line */

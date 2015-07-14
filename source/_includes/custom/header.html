@@ -1,3 +1,12 @@
+{% if site.simple_search %}
+<form class="google-search" action="{{ site.simple_search }}" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="sitesearch" value="{{ site.url | shorthand_url }}">
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+{% endif %}
+
 <hgroup>
   <h1><a href="{{ root_url }}/">{{ site.title }}</a></h1>
   {% if site.subtitle %}

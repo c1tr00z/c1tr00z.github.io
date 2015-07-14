@@ -1,2 +1,80 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+html {
+	background: $page-bg;
+}
+
+body>header hgroup {
+	text-align: center;
+}
+
+body>header hgroup hr {
+	width: 20%;
+}
+
+body>nav {
+	background: $page-bg;
+}
+
+.google-search {
+	text-align: right;
+}
+
+.google-search input {
+	border: 1px solid #222;
+}
+
+body>nav a {
+	font-family: "Arvo";
+}
+
+body {
+	max-width: 1000px;
+  > div {
+    	background: #fff;
+    }
+}
+
+article header p.meta time span {
+	font-family: "Arvo", sans-serif;
+	color: #555;
+}
+
+article div.entry-content {
+	text-align: justify;
+	font-family: "Cuprum", sans-serif;
+}
+
+article + article {
+	.blog-index & {
+		background: #fff;
+		border-top: #222 1px solid;
+	}
+}
+
+#content .blog-index a[rel="full-article"] {
+    background: #fff;
+    color: #555;
+    display: inline-block;
+    margin-right: 0.5em;
+    padding: 0.4em 0.8em;
+    text-decoration: none;
+    transition: background-color 0.5s ease 0s;
+    font-family: "Arvo", sans-serif;
+}
+
+#content div.pagination {
+	background: #fff;
+	border-top: #222 1px solid;
+	font-family: "Arvo", sans-serif;
+	color: #555;
+	a {
+		color: #555;
+	}
+}
+
+footer p {
+    text-align: center;
+    font-family: "Arvo", sans-serif;
+}
