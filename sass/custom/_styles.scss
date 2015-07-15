@@ -36,6 +36,10 @@ body {
     }
 }
 
+article header {
+    background: #fff;
+}
+
 article header p.meta time span {
 	font-family: "Arvo", sans-serif;
 	color: #555;
@@ -77,4 +81,8 @@ article + article {
 footer p {
     text-align: center;
     font-family: "Arvo", sans-serif;
+}
+
+p.meta + .sharing {
+	background: #fff;
 }
