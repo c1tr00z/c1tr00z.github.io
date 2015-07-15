@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "A.C.A.B."
-date: 2013-06-22 00:00:00 +0300
+title: "Drill Machine Go!"
+date: 2015-07-16 00:35:08 +0300
 comments: true
-categories: games gamedev
+categories: games gamedev compo ludum-dare
 ---
 
 <!--more-->
 
 <script type='text/javascript'>
-	var gameName = "acab";
+	var gameName = "drill-machine-go";
 </script>
 
 <script type='text/javascript' src='{{ root_url }}/javascripts/web.js'></script>
@@ -26,8 +26,10 @@ categories: games gamedev
 		</a>
 	</div>
 </div>
-<a href="http://yadi.sk/d/U9rngVsx5LDaA"><img src="{{ root_url }}/images/builds/tux.png" title="Linux-версия" alt="Linux version"></a>
+<a href="http://yadi.sk/d/mCz6bKk9NRt9C"><img src="{{ root_url }}/images/builds/tux.png" title="Linux version" alt="Linux version"></a>
+
+You are little drill machine and you want to see THE SURRRFACE! While you drill you move. Evil rockets want to kill you. Evade them and keed going to THE SURRRFACE!
+
+For [Ludum Dare Compo 29](http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&uid=36555)
 
 Created with [Unity3D](http://unity3d.com)
-
-Thanks to [joshuahardin.com](joshuahardin.com) for his track "Chrome"

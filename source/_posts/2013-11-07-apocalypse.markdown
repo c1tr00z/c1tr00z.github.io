@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "apocalypse"
+title: "Apocalypse"
 date: 2013-11-07 00:00:00 +0300
 comments: true
 categories: games gamedev
