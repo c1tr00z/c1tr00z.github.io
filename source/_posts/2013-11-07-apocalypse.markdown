@@ -26,7 +26,7 @@ categories: games gamedev
 		</a>
 	</div>
 </div>
-<a href="http://yadi.sk/d/j_IOtIqJCfQae"><img src="http://ctrz.me/resources/pics/tux.png" title="Linux version" alt="Linux version"></a>
+<a href="http://yadi.sk/d/j_IOtIqJCfQae"><img src="{{ root_url }}/images/builds/tux.png" title="Linux version" alt="Linux version"></a>
 
 ##2013-11-17
 * Meteors & Fog (test) & new pathfinding

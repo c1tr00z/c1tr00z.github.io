@@ -26,7 +26,7 @@ categories: games gamedev
 		</a>
 	</div>
 </div>
-<a href="http://yadi.sk/d/U9rngVsx5LDaA"><img src="{{ root_url }}/images/builds/tux.png" title="Linux-версия" alt="Linux-версия"></a>
+<a href="http://yadi.sk/d/U9rngVsx5LDaA"><img src="{{ root_url }}/images/builds/tux.png" title="Linux-версия" alt="Linux version"></a>
 
 Created with [Unity3D](http://unity3d.com)
 
