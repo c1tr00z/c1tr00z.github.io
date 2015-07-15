@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Что есть игра"
+title: "Сюжеты в играх"
 date: 2014-10-10 00:00:00 +0300
 comments: true
 categories: gamedesign games rage
