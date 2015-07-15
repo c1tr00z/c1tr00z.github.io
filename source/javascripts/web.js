@@ -46,6 +46,5 @@
 						break;
 					}
 				});
-
 				u.initPlugin(jQuery("#unityPlayer")[0], "http://ctrz.me/unity/" + gameName + "/web.unity3d");
 			});

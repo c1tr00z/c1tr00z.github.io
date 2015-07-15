@@ -12,7 +12,7 @@ categories: games gamedev
 	var gameName = "acab";
 </script>
 
-<script type='text/javascript' src='{{ root_url }}/unity/acab/web.js'></script>
+<script type='text/javascript' src='{{ root_url }}/javascripts/web.js'></script>
 
 <div id="unityPlayer">
 	<div class="missing">
