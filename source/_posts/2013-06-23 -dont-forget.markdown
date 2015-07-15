@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Drill Machine Go!"
-date: 2014-04-27 00:00:00 +0300
+title: "dont_forget"
+date: 2013-06-23 00:00:00 +0300
 comments: true
-categories: games gamedev compo ludum-dare
+categories: games gamedev
 ---
 
 <!--more-->
 
 <script type='text/javascript'>
-	var gameName = "drill-machine-go";
+	var gameName = "dont-forget";
 </script>
 
 <script type='text/javascript' src='{{ root_url }}/javascripts/web.js'></script>
@@ -26,10 +26,6 @@ categories: games gamedev compo ludum-dare
 		</a>
 	</div>
 </div>
-<a href="http://yadi.sk/d/mCz6bKk9NRt9C"><img src="{{ root_url }}/images/builds/tux.png" title="Linux version" alt="Linux version"></a>
-
-You are little drill machine and you want to see THE SURRRFACE! While you drill you move. Evil rockets want to kill you. Evade them and keed going to THE SURRRFACE!
-
-For [Ludum Dare Compo 29](http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&uid=36555)
+<a href="http://yadi.sk/d/-GguQwGa6_kSq"><img src="{{ root_url }}/images/builds/tux.png" title="Linux version" alt="Linux version"></a>
 
 Created with [Unity3D](http://unity3d.com)
