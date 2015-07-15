@@ -11,8 +11,8 @@ categories: games gamedev
 <script type="text/javascript">
 		<!--
 			var config = {
-				width: 800, 
-				height: 600,
+				width: 1000, 
+				height: 750,
 				params: { enableDebugging:"0" }
 				
 			};
