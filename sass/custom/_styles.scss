@@ -57,6 +57,18 @@ article + article {
 	}
 }
 
+//article img, article video, article .flash-video {
+//    border: 0.5em solid #fff;
+//    border-radius: 0.3em;
+//    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+//    box-sizing: border-box;
+//}
+article img {
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+}
+
 #content .blog-index a[rel="full-article"] {
     background: #fff;
     color: #555;
