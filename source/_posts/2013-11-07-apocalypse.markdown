@@ -10,6 +10,8 @@ categories: games gamedev
 
 <script type='text/javascript'>
 	var gameName = "apocalypse";
+	var gameWidth = 880;
+	var gameHeight = 660;
 </script>
 
 <script type='text/javascript' src='{{ root_url }}/javascripts/web.js'></script>

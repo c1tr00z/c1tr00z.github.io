@@ -5,8 +5,8 @@
 		document.write('<script type="text\/javascript" src="' + unityObjectUrl + '"><\/script>');
 
 			var config = {
-				width: 880, 
-				height: 660,
+				width: gameWidth, 
+				height: gameHeight,
 				params: { enableDebugging:"0" }
 				
 			};
