@@ -46,5 +46,5 @@
 						break;
 					}
 				});
-				u.initPlugin(jQuery("#unityPlayer")[0], "{{ root_url }}/unity/acab/web.unity3d");
+				u.initPlugin(jQuery("#unityPlayer")[0], "http://ctrz.me/unity/" + gameName + "/web.unity3d");
 			});
