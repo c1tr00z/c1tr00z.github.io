@@ -58,7 +58,7 @@ categories: games gamedev compo ludum-dare
 						break;
 					}
 				});
-				u.initPlugin(jQuery("#unityPlayer")[0], "http://ctrz.me/unity/" + gameName + "/web.unity3d");
+				u.initPlugin(jQuery("#unityPlayer")[0], "http://ctrz.me/unity/drill-machine-go/web.unity3d");
 			});
 </script>
 
