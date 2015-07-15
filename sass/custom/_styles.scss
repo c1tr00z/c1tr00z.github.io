@@ -53,7 +53,7 @@ article div.entry-content {
 article + article {
 	.blog-index & {
 		background: #fff;
-		border-top: #222 1px solid;
+		border-top: #222 1px dashed;
 	}
 }
 
@@ -69,6 +69,10 @@ article img {
     box-shadow: none;
 }
 
+article h2 {
+    background: #fff;
+}
+
 #content .blog-index a[rel="full-article"] {
     background: #fff;
     color: #555;
@@ -82,7 +86,7 @@ article img {
 
 #content div.pagination {
 	background: #fff;
-	border-top: #222 1px solid;
+	border-top: #222 1px dashed;
 	font-family: "Arvo", sans-serif;
 	color: #555;
 	a {

@@ -3,7 +3,7 @@ layout: post
 title: "Что есть игра"
 date: 2014-10-10 00:00:00 +0300
 comments: true
-categories: gamedesign games
+categories: gamedesign games rage
 ---
 
 Итак, у нас развелось много людей, которые с какого-то хрена начали считать что сюжет - чуть ли не самая важная часть игры.

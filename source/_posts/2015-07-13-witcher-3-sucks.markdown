@@ -3,7 +3,7 @@ layout: post
 title: "Дно разработки на примере “игры года” Ведьмак 3"
 date: 2015-07-13 00:13:53 +0300
 comments: true
-categories: games gamedesign gamedev
+categories: games gamedesign gamedev rage
 ---
 
 Сразу скажу, что играю (если этот процесс вообще можно назвать игрой) на PS4, возможно на других платформах часть проблем будет отсутствовать.
