@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fallout 4 и другие игры Bethesda Softworks а так же их ценность для индустрии"
+title: "Fallout 4 и другие игры Bethesda Softworks, а также их ценность для индустрии"
 date: 2015-11-29 13:59:11 +0300
 comments: true
 categories: games, industrie
